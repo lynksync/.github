@@ -1,11 +1,12 @@
-## Hi there 👋
 The name was supposed to be LinkSync, Since that name was already taken while building i decided to go with this.
 
 ### Motivation
-While i browse through LinkedIn,Whatsapp or X i get couple of good url's. If i'm browsing through my mobile then i would send it to you conversation for referring it at a later point.By the year end i had some 100 
+While i browse through LinkedIn,Whatsapp or X i get couple of good url's. If i'm browsing through my mobile then i would send it to myself for referring it at a later point.By the year end i had some 100 
 links scattered in my mobile, laptop browser. i wanted all of this to managed conveniently and efficiently without redundancy so i decided to build LynkSync.
 
 ### What product will do?
+![main_logo_white](https://github.com/user-attachments/assets/d1f06c19-b1fd-4175-8a78-39da8ff135d8)
+
 A website to manage URL and categories.
 - You can use browser to bookmark url on desktop/laptop browser then this would sync to cloud https://github.com/lynksync/lynksync.
 - On mobile you can send URL to bot which will autocategorise.
@@ -13,5 +14,4 @@ A website to manage URL and categories.
 Apart from these in future we will have AI features for quick read through related categories, create shareable notes etc
 
 ### How to contribute
-- Will update soon
-
+- Will update soon!
